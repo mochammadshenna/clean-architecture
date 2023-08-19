@@ -1,0 +1,13 @@
+{
+	"module_path": "github.com/aeramu/clean-architecture",
+	"entity": [
+		"Book"
+	],
+	"service": [
+		"CreateBook",
+		"GetBook"
+	],
+	"adapter": [
+		"BookRepository"
+	]
+}
